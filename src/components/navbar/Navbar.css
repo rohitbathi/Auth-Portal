@@ -1,0 +1,33 @@
+.Navbar{
+    max-width: fit-content;
+    position: relative;
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    height: 100vh;
+    background-color: #273239;
+}
+
+a{
+    text-decoration: none;
+    color: floralwhite;
+}
+
+ul{
+    font-size: 1.2rem;
+    list-style-type: none;
+}
+
+li{
+    margin-bottom: 2rem;
+}
+
+li:hover{
+    color: rgb(66, 228, 240);
+}
+
+#title{
+    font-size: 3rem;
+    color: whitesmoke;
+    padding-bottom: 10rem;
+}

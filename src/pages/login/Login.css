@@ -1,0 +1,48 @@
+.Login {
+    display: flex;
+}
+
+.form-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#login-form {
+    width: 30rem;
+}
+
+.form {
+    max-height: max-content;
+    position: relative;
+    display: block;
+    background-color: #273239;
+    padding: 3rem 0.5rem 3rem 0.5rem;
+    border-radius: 3rem;
+}
+
+.form input {
+    margin: 1rem 0;
+}
+
+.login-header{
+    font-size: 2.5rem;
+    color: whitesmoke;
+}
+
+table {
+    margin: auto;
+}
+
+.success{
+    color: green;
+}
+
+.failure{
+    width:30%;
+    height: 5%;
+    background-color: indianred;
+}

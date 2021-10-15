@@ -1,0 +1,43 @@
+.Profile{
+	display: flex;
+}
+
+.content-label{
+	color: black;
+	font-weight: bold;
+	margin:1.5rem 1.5rem 0 0;
+}
+
+.content-input{
+	border: 1px solid black;
+	padding: 0.7rem 2rem;
+    border-radius: 1rem;
+	margin:1.5rem 1.5rem 0 0;
+}
+
+#save-btn{
+	background-color: indigo;
+    color: white;
+    padding: 0.5rem;
+    font-family: sans-serif;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    margin: 4rem 0;
+}
+
+.content-wrapper{
+	text-align: center;
+	height: fit-content;
+}
+
+#main-wrap{
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.profile-header{
+	font-size: 2.5rem;
+}

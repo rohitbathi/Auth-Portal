@@ -1,0 +1,32 @@
+.Register{
+    display: flex;
+}
+
+#register-form{
+    max-width: max-content;
+    max-height: max-content;
+    position: relative;
+    display: block;
+    background-color: #273239;
+    padding: 3rem 2rem 3rem 2rem;
+    border-radius: 3rem;
+}
+
+#btn-text{
+    background-color: indigo;
+    color: white;
+    padding: 0.5rem;
+    font-family: sans-serif;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    margin: 4rem 0;
+}
+
+button{
+    margin: 2rem 0 0.5rem 0;
+}
+
+.register-header{
+    font-size: 2.5rem;
+    color: whitesmoke;
+}

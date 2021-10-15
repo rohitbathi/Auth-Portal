@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid goldenrod;
+}
+
+.user-card{
+    padding: 2rem;
+    height: fit-content;
+    background-color: rgb(133, 184, 235);
+    border: 4rem;
+    border-radius: 2rem;
+    color: whitesmoke;
+}

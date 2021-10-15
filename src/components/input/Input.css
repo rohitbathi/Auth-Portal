@@ -1,0 +1,11 @@
+.form-input {
+    padding: 0.7rem 2rem;
+    border-radius: 1rem;
+	border: none;
+}
+
+.label{
+    margin-right: 1.7rem;
+    color: whitesmoke;
+    font-size: 1.2rem;
+}
