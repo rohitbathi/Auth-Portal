@@ -1,7 +1,7 @@
 import Axios from "axios";
 
 const axios = Axios.create({
-    baseURL: "http://13.233.136.51:8000",
+    baseURL: "https://pcc-project.herokuapp.com",
 });
 
 export default axios;
